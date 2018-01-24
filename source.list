@@ -1,0 +1,2 @@
+deb http://autolocal.com/ubuntu/ trusty main
+deb http://autolocal.com/ubuntu/deb/ trusty-secure main

@@ -1,0 +1,20 @@
+- management: ' 30.0.0.0/24'
+  name: r1
+  public: ' 20.0.0.0/24'
+  pxe: ' 10.0.0.0/24'
+  storage: ' 40.0.0.0/24'
+- management: ' 30.0.1.0/24'
+  name: r2
+  public: ' 20.0.1.0/24'
+  pxe: ' 10.0.1.0/24'
+  storage: ' 40.0.1.0/24'
+- management: ' 30.0.2.0/24'
+  name: r3
+  public: ' 20.0.2.0/24'
+  pxe: ' 10.0.2.0/24'
+  storage: ' 40.0.2.0/24'
+- management: ' 30.0.3.0/24'
+  name: r4
+  public: ' 20.0.3.0/24'
+  pxe: ' 10.0.3.0/24'
+  storage: ' 40.0.3.0/24'

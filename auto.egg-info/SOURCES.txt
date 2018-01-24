@@ -1,0 +1,7 @@
+myauto.py
+auto.egg-info/PKG-INFO
+auto.egg-info/SOURCES.txt
+auto.egg-info/dependency_links.txt
+auto.egg-info/entry_points.txt
+auto.egg-info/requires.txt
+auto.egg-info/top_level.txt
